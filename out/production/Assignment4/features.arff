@@ -1,0 +1,12 @@
+@relation audio_features
+
+@attribute amplitude numeric
+@attribute rms numeric
+@attribute zero_crossing_rate numeric
+@attribute label {0, 1}
+
+@data
+4023.0,711.2305205466675,8245,1
+16551.0,3437.986907597546,3639,1
+13407.0,1965.6841042828562,3878,0
+16389.0,1913.502028607891,7422,0
